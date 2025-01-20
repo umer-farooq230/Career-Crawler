@@ -1,0 +1,5 @@
+csv
+streamlit==1.41.1
+python-jobspy==1.1.76
+pandas==2.2.3
+jobspy==0.29.0
